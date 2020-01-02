@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/EAIrobot.png</file>
+        <file>picture/bluetooth.png</file>
+        <file>picture/charging.png</file>
+        <file>picture/down.png</file>
+        <file>picture/left.png</file>
+        <file>picture/logo.png</file>
+        <file>picture/Right.png</file>
+        <file>picture/stop.png</file>
+        <file>picture/up.png</file>
+        <file>picture/dis.png</file>
+        <file>picture/auto.png</file>
+        <file>picture/manu.png</file>
+        <file>picture/D.png</file>
+        <file>picture/L.png</file>
+        <file>picture/R.png</file>
+        <file>picture/S.png</file>
+        <file>picture/U.png</file>
+        <file>picture/NoS.png</file>
+        <file>picture/Speaker.png</file>
+        <file>picture/NSp.png</file>
+        <file>picture/Sp.png</file>
+        <file>picture/LED.png</file>
+        <file>picture/LED2.png</file>
+        <file>picture/LED3.png</file>
+        <file>picture/LED1.png</file>
+        <file>picture/Cha.png</file>
+        <file>picture/H.png</file>
+    </qresource>
+</RCC>
